@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 717.80798 1059.36"
+  height="1059.36"
+  width="717.80798"
+  xml:space="preserve"
+  id="svg2"
+  version="1.1">
+  <metadata
+    id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+        rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <style>@font-face {
+    font-family: HelveticaNeueLTStd-Bd;
+    src: url(HelveticaNeueLTStd-Bd.otf);
+}
+@font-face {
+  font-family: HelveticaNeueLTStd-Blk;
+  src: url(HelveticaNeueLTStd-Blk.otf);
+}
+#text40{
+  font-family: HelveticaNeueLTStd-Blk  !important;
+}
+</style>
+  <defs
+    id="defs6">
+    <clipPath
+      id="clipPath18"
+      clipPathUnits="userSpaceOnUse">
+      <path
+        id="path16"
+        d="M 0,794.52 H 538.356 V 0 H 0 Z" />
+    </clipPath>
+  </defs>
+  <g
+    transform="matrix(1.3333333,0,0,-1.3333333,0,1059.36)"
+    id="g10">
+    <g
+      id="g12">
+      <g
+        clip-path="url(#clipPath18)"
+        id="g14">
+        <g
+          transform="translate(99.667,214.7393)"
+          id="g20">
+          <path
+            id="path22"
+            style="fill:#00aeaa;fill-opacity:1;fill-rule:nonzero;stroke:none"
+            d="M 0,0 C 0,-23.135 -2.657,-45.649 -7.676,-67.257 L 397.523,-207.48 C 457.934,0.052 425.101,232.326 288.242,420.694 246.895,477.601 198.769,526.726 145.771,567.767 L -90.544,213.112 C -34.727,159.256 0,83.688 0,0" />
+        </g>
+      </g>
+    </g>
+    <text
+      id="text36"
+      style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.61989975px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      transform="matrix(1,0,0,-1,97.0176,365.9888)">
+      <tspan
+        id="tspan24"
+        y="0"
+        x="0 30.010307 47.951252 56.236706 72.970718 83.670044 95.576309 103.20937 119.38883 137.32977 145.58261 156.28194 175.42982 183.68266 202.83054 220.77148 229.02432 257.79507 276.94296 288.84921 306.79016">We strive to be more </tspan>
+      <tspan
+        id="tspan26"
+        y="40.318195"
+        x="17.712606 28.411932 46.972656 64.913605 83.474327 91.727158 109.66811 117.95356 137.06882 144.70187 162.64282 180.58377 198.5247 206.81017 217.50949 236.62476 244.9102 270.64731 289.76257 301.66882 319.60977 327.86261 340.32343">than a place to work - </tspan>
+      <tspan
+        id="tspan28"
+        y="80.636391"
+        x="28.705511 54.442612 73.003334 90.944283 102.85055 120.79149 129.04433 148.15959 166.10052 185.21579 204.36368 211.96411 229.90506 238.15788 256.71863 274.65955 290.83902 308.77997 317.06543 335.00638">where people have a </tspan>
+      <tspan
+        id="tspan30"
+        y="120.95459"
+        x="34.968533 51.702541 69.643486 88.204208 104.93822 122.87917 131.132 150.27988 160.32681 168.57964 187.72752 205.66847 213.26891 232.41679 250.97751 270.09277 277.69321 296.25394 315.3692 323.65463">sense of belonging, </tspan>
+      <tspan
+        id="tspan32"
+        y="161.2728"
+        x="37.675983 63.413086 82.560966 94.467232 112.40817 124.9016 132.50203 140.13509 150.18202 168.12297 176.40842 195.52368 213.46463 221.09769 239.03862 257.59937 275.54028 293.48123 301.73407 310.01953 327.96048 346.52121 365.63644">work-life balance, and </tspan>
+      <tspan
+        id="tspan34"
+        y="201.59097"
+        x="37.936943 55.877888 64.163345 74.862671 86.768936 105.32966 123.2706 131.55606 149.49701 167.43794 179.34421 197.28516 215.2261 227.13237 235.41782 254.53308 272.47403 283.17334 301.73407">a true career path.</tspan>
+    </text>
+    <text
+      id="text40"
+      style="font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.70780182px;font-family:'HelveticaNeueLT Std Blk';-inkscape-font-specification:HelveticaNeueLTStd-Blk;writing-mode:lr-tb;fill:#05292f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      transform="matrix(1,0,0,-1,89.626,423.5103)">
+      <tspan
+        id="tspan38"
+        y="0"
+        x="0 46.007244 84.896637 104.5678 142.16304 161.89891 201.88834 240.77773 301.21481 340.10419">Be a home.</tspan>
+    </text>
+  </g>
+</svg>

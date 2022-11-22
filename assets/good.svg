@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 889.55603 784.66669"
+  height="784.66669"
+  width="889.55603"
+  xml:space="preserve"
+  id="svg2"
+  version="1.1">
+  <metadata
+    id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+        rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+    id="defs6">
+    <clipPath
+      id="clipPath18"
+      clipPathUnits="userSpaceOnUse">
+      <path
+        id="path16"
+        d="M 0,588.5 H 667.167 V 0 H 0 Z" />
+    </clipPath>
+  </defs>
+  <g
+    transform="matrix(1.3333333,0,0,-1.3333333,0,784.66667)"
+    id="g10">
+    <g
+      id="g12">
+      <g
+        clip-path="url(#clipPath18)"
+        id="g14">
+        <g
+          transform="translate(423.7007,587.623)"
+          id="g20">
+          <path
+            id="path22"
+            style="fill:#8c83be;fill-opacity:1;fill-rule:nonzero;stroke:none"
+            d="m 0,0 -422.802,-107.724 c 22.655,-63.093 54.499,-124.042 95.843,-180.95 C -190.1,-477.04 20.658,-580.048 236.604,-586.711 l 6.372,432.791 C 138.002,-147.941 47.664,-87.299 0,0" />
+        </g>
+      </g>
+    </g>
+    <text
+      id="text26"
+      style="font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.70780182px;font-family:'HelveticaNeueLT Std Blk';-inkscape-font-specification:HelveticaNeueLTStd-Blk;writing-mode:lr-tb;fill:#05292f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      transform="matrix(1,0,0,-1,210.3652,348.3955)">
+      <tspan
+        id="tspan24"
+        y="0"
+        x="0 48.466141 87.35553 107.09141 145.98079 184.87018 223.75957 263.81369">Do good.</tspan>
+    </text>
+    <text
+      id="text34"
+      style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.61989975px;font-family:'HelveticaNeueLT Std';-inkscape-font-specification:HelveticaNeueLTStd-Bd;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      transform="matrix(1,0,0,-1,152.0933,297.459)">
+      <tspan
+        id="tspan28"
+        y="0"
+        x="0 23.290609 42.34063 51.735161 70.785187 79.527313 99.197113 119.45407 128.8486 147.89862 167.56842 187.79277 197.1873 216.23732 236.49428 245.2364 253.97855 273.02856 293.2529 313.50986 326.52521 345.57523 357.38364 366.12576 383.41431 402.46432">Be kind and collaborative.</tspan>
+      <tspan
+        id="tspan30"
+        y="40.318195"
+        x="39.372219 61.455891 74.47123 94.695572 124.5754 144.83235 156.64076 175.69078 185.08531 204.13533 224.39229 244.06209 252.80423 264.61264 281.86856 291.23047 300.59238 319.6424 339.31219 359.53653 368.93106 389.18802 408.23804">Promote equity, and be </tspan>
+      <tspan
+        id="tspan32"
+        y="80.636391"
+        x="84.583397 111.42958 130.4796 139.18912 158.23914 178.49609 208.37592 217.08543 236.75523 257.01221 266.40674 278.21512 298.47208 307.86661 326.91663 344.20517 363.25522 376.27054 393.52646 413.78342 433.45322 452.50327">welcoming to everyone.</tspan>
+    </text>
+  </g>
+</svg>

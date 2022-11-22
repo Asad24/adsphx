@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Values</title>
+	<style type="text/css">
+	@font-face {
+	  font-family: HelveticaNeueLTStd-Bd;
+	  src: url(assets/HelveticaNeueLTStd-Bd.otf);
+	}
+	@font-face {
+	  font-family: HelveticaNeueLTStd-Blk;
+	  src: url(assets/HelveticaNeueLTStd-Blk.otf);
+	}
+body{
+	background: #ccc;
+}
+.values-circle {
+	border-radius: 50%;
+	position: absolute;
+	width: 150px;
+}
+.values-area {
+	width: 600px;
+	height: 600px;
+	display: block;
+	position: relative;
+	margin: 40px auto;
+	margin-left: auto;
+	margin-right: auto;
+	background: #fff;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.values {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+.vItem {
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	width: 40%;
+	height: 40%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	/* transform: translate(0,0) scale(0); */
+	transition: 0.5s;
+	/* opacity: 0; */
+}
+.vItem h4 {
+	font-family: HelveticaNeueLTStd-Blk, Helvetica Neue, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 22px;
+	color: #04292f;
+}
+.vItem p {
+	font-family: HelveticaNeueLTStd-Bd, Helvetica Neue, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+}
+.doors{
+	background-image: url(assets/doors.png);
+}
+.home{
+	background-image: url(assets/home.png);
+}
+.change{
+	background-image: url(assets/change.png);
+}
+.good{
+	background-image: url(assets/good.png);
+}
+.trust{
+	background-image: url(assets/trust.png);
+}
+.values-area .home {
+	transform: translate(150px, -94px) scale(1);
+}
+.doors {
+	transform: translate(0px, -194px) scale(1);
+}
+.change {
+	transform: translate(130px, 110px) scale(1);
+}
+.good {
+	transform: translate(-110px, 130px) scale(1);
+}
+.trust {
+	transform: translate(-190px, -75px) scale(1);
+}
+
+
+
+
+
+
+
+
+
+
+
+	</style>
+</head>
+<body>
+
+
+<!-- Values circle section start -->
+
+<div class="values-area">
+	<div class="values">
+		<img src="assets/values-circle.png" class="values-circle" alt="values circle">
+		<div class="vItem doors">
+			<h4>Open doors.</h4>
+			<p>We are here to help our customers realize success, own homes they love, and create more opportunity for them down the road. </p>
+		</div>
+		<div class="vItem home">
+			<h4>Be a home.</h4>
+			<p>We strive to be more than a place to work - where people have a sense of belonging, work-life balance, and a true career path.</p>
+		</div>
+		<div class="vItem change">
+			<h4>Drive change.</h4>
+			<p>We must set the standard. Advance technology and sustainability, and implement visionary practices in all we do. </p>
+		</div>
+		<div class="vItem good">
+			<h4>Do good.</h4>
+			<p>Be kind and collaborative. Promote equity, and be welcoming to everyone.</p>
+		</div>
+		<div class="vItem trust">
+			<h4>Earn trust.</h4>
+			<p>Nothing works without it.</p>
+		</div>
+	</div>
+</div>
+
+<!-- Values circle section end -->
+
+
+
+
+</body>
+</html>

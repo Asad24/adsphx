@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: HelveticaNeueLTStd-Bd;
+    src: url(HelveticaNeueLTStd-Bd.otf);
+}
+@font-face {
+  font-family: HelveticaNeueLTStd-Blk;
+  src: url(HelveticaNeueLTStd-Blk.otf);
+}
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-lt-std-55');
+
+
+#text26{}
