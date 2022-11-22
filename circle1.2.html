@@ -51,8 +51,28 @@ body{
 	position: absolute;
 	max-width: 100%;
 	transition: 0.5s;
-	transform: scale(0.1);
+	transform: scale(0);
+	transform-origin: center;
 	opacity: 0;
+	transition: 0.5s;
+}
+.values-items.aend{
+	transition: 0.5s;
+	animation-name: value-ani1;
+	animation-iteration-count: 1;
+	animation-duration: 0.4s;
+	animation-direction: normal;
+	animation-fill-mode: forwards;
+}
+@keyframes value-ani1{
+	0%{
+	opacity: 1;
+	transform: scale(1);
+	}
+	100%{
+	opacity: 0;
+	transform: scale(0);
+	}
 }
 .hover-center {
 	background: transparent;
@@ -64,13 +84,14 @@ body{
 	cursor: pointer;
 }
 .values-items.start {
-	animation-name: value-ani;
+	transition: 0.5s;
+	animation-name: value-ani2;
 	animation-iteration-count: 1;
 	animation-duration: 0.7s;
 	animation-direction: normal;
 	animation-fill-mode: forwards;
 }
-@keyframes value-ani{
+@keyframes value-ani2{
 	0%{
 	opacity: 0;
 	}
@@ -110,9 +131,20 @@ body{
 	</div>
 </div>
 <script type="text/javascript">
-	$(".hover-center").hover(function(){
-	    $(".values-items").toggleClass("start");
-	});
+	// $(".hover-center").hover(function(){
+	//     $(".values-items").toggleClass("start");
+	// });
+
+$(".hover-center").hover(
+  function () {
+    $('.values-items').addClass("start");
+  },
+  function () {
+    $('.values-items').removeClass("start");
+    $('.values-items').addClass("aend");
+  }
+);
+
 </script>
 
 <!-- Values circle section end -->
